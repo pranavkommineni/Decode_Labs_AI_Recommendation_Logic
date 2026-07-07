@@ -4,8 +4,7 @@
 
 AI Recommendation Logic is the intelligent recommendation engine of the Decode Labs platform. It analyzes user interactions, preferences, and available content to generate personalized recommendations using machine learning and rule-based decision making.
 
-The system is designed to provide accurate, scalable, and explainable recommendations that improve user engagement and overall experience.
-
+The system is designed to provide accurate, scalable, and explainable recommendations that improve user engagement and overall experience.this is related to the recommendation system for the jobs.
 ---
 
 ## Features
